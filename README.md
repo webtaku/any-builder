@@ -2,7 +2,7 @@
 
 A small, type-safe utility that enables **shared component APIs** using the same selector-based syntax across **HTML string builders** and **DOM element builders**.
 
-This allows you to write components once and reuse them with both `@webtaku/h` (HTML strings) and `@webtaku/el` (DOM elements).
+This allows you to write components once and reuse them with both [`@webtaku/h`](https://github.com/webtaku/h) (HTML strings) and [`@webtaku/el`](https://github.com/webtaku/el) (DOM elements).
 
 ---
 
